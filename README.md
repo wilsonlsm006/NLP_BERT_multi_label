@@ -1,0 +1,2 @@
+# NLP_BERT_multi_label
+使用BERT构建多标签标注模型
